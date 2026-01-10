@@ -28,6 +28,8 @@ Hands-on practice with Microsoft 365 Admin Center, Power Platform Admin Center, 
    - Administrative mailbox management
      
 ![Exchange Admin Center Mailboxes](screenshot_Exchange_Admin_Center_Mailboxes.JPG)
+*Screenshot demonstrates real configuration performed in Microsoft 365 Admin Center.  
+All tenant-specific information and identifiers have been anonymized.*
 
 ### Security and privacy
 All screenshots are anonymized:
@@ -41,3 +43,17 @@ All screenshots are anonymized:
 - Group-based access control
 - Administrative work across M365 portals
 - Security-aware documentation
+
+
+## Author
+
+Denisa Pitnerova
+Junior / Associate Microsoft 365 & Power Platform Administrator  
+
+Hands-on experience with Microsoft 365 Admin Center, Microsoft Entra ID, Exchange Admin Center and Power Platform administration.  
+Focused on identity and access management, security-aware configuration and clear technical documentation.
+
+## Notes for reviewers
+
+This repository demonstrates practical administration skills rather than theoretical knowledge.  
+All configurations were created manually in Microsoft 365 portals to simulate real enterprise scenarios.
