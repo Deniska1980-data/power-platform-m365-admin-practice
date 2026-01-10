@@ -13,7 +13,7 @@ Hands-on practice with Microsoft 365 Admin Center, Power Platform Admin Center, 
    - Ownership and membership
    - Email configuration
      
-![Microsoft 365 Group configuration](screenshot_Microsoft_365_Group_configuration.jpg)
+! [Microsoft 365 Group configuration](screenshot_Microsoft_365_Group_configuration.jpg)
 
 2. Microsoft Entra ID – Security Groups
    - Assigned membership
