@@ -48,6 +48,7 @@ All screenshots are anonymized:
 ## Author
 
 Denisa Pitnerova
+
 Junior / Associate Microsoft 365 & Power Platform Administrator  
 
 Hands-on experience with Microsoft 365 Admin Center, Microsoft Entra ID, Exchange Admin Center and Power Platform administration.  
