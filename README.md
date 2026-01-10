@@ -29,8 +29,8 @@ Hands-on practice with Microsoft 365 Admin Center, Power Platform Admin Center, 
      
 ![Exchange Admin Center Mailboxes](screenshot_Exchange_Admin_Center_Mailboxes.JPG)
 
-*Screenshot demonstrates real configuration performed in Microsoft 365 Admin Center.  
-All tenant-specific information and identifiers have been anonymized.*
+Configuration performed in Microsoft 365 Admin Center  
+All tenant specific information and identifiers have been anonymized
 
 ### Security and privacy
 All screenshots are anonymized:
@@ -52,6 +52,7 @@ Denisa Pitnerova
 Junior / Associate Microsoft 365 & Power Platform Administrator  
 
 Hands-on experience with Microsoft 365 Admin Center, Microsoft Entra ID, Exchange Admin Center and Power Platform administration.  
+
 Focused on identity and access management, security-aware configuration and clear technical documentation.
 
 ## Notes for reviewers
