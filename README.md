@@ -13,21 +13,21 @@ Hands-on practice with Microsoft 365 Admin Center, Power Platform Admin Center, 
    - Ownership and membership
    - Email configuration
      
-! [Microsoft 365 Group configuration](screenshot_Microsoft_365_Group_configuration.jpg)
+! [Microsoft 365 Group configuration](screenshot_Microsoft_365_Group_configuration.JPG)
 
 2. Microsoft Entra ID – Security Groups
    - Assigned membership
    - Security group structure
    - IAM overview
      
-![Microsoft Entra ID Security Groups](screenshot_Microsoft_Entra_ID_Security_Groups.jpg)
+![Microsoft Entra ID Security Groups](screenshot_Microsoft_Entra_ID_Security_Groups.JPG)
 
 3. Exchange Admin Center – Mailboxes
    - User mailboxes
    - Shared mailboxes
    - Administrative mailbox management
      
-![Exchange Admin Center Mailboxes](screenshot_Exchange_Admin_Center_Mailboxes.jpg)
+![Exchange Admin Center Mailboxes](screenshot_Exchange_Admin_Center_Mailboxes.JPG)
 
 ### Security and privacy
 All screenshots are anonymized:
