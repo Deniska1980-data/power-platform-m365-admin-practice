@@ -1,31 +1,27 @@
 # power-platform-m365-admin-practice
-Hands-on practice with Microsoft 365 Admin Center, Power Platform Admin Center, Microsoft Entra ID and Exchange Admin Center. Focus on identity and access management, security groups, group-based access, shared mailboxes and security-aware administration. All data anonymized.
+This repository documents my hands-on learning and practice with Microsoft 365 administration. I use it to understand how identity, access, and basic security concepts work in real environments. The goal is not automation or advanced architecture, but learning how things actually behave in Microsoft 365 and Power Platform admin tools.
+All data is anonymized.
 
-### Scope
-- Microsoft 365 Admin Center
-- Microsoft Entra ID (Azure AD)
-- Exchange Admin Center
+## What I practiced
+- Microsoft 365 Admin Center (users, groups, roles)
+- Microsoft Entra ID (security groups, access basics)
+- Exchange Admin Center (shared mailboxes, permissions)
 
-### Evidence of hands-on admin work
+## What I tried and tested
+- Creating and configuring Microsoft 365 Groups
+- Understanding group ownership vs membership
+- Testing shared mailbox permissions
+- Observing how changes propagate across admin centers
 
 1. Microsoft 365 Group configuration
-   - Group settings
-   - Ownership and membership
-   - Email configuration
      
 ![Microsoft 365 Group configuration](screenshot_Microsoft_365_Group_configuration.JPG)
 
 2. Microsoft Entra ID – Security Groups
-   - Assigned membership
-   - Security group structure
-   - IAM overview
      
 ![Microsoft Entra ID Security Groups](screenshot_Microsoft_Entra_ID_Security_Groups.JPG)
 
 3. Exchange Admin Center – Mailboxes
-   - User mailboxes
-   - Shared mailboxes
-   - Administrative mailbox management
      
 ![Exchange Admin Center Mailboxes](screenshot_Exchange_Admin_Center_Mailboxes.JPG)
 
@@ -51,9 +47,8 @@ Denisa Pitnerova
 
 Junior / Associate Microsoft 365 & Power Platform Administrator  
 
-Hands-on experience with Microsoft 365 Admin Center, Microsoft Entra ID, Exchange Admin Center and Power Platform administration.  
-
-Focused on identity and access management, security-aware configuration and clear technical documentation.
+This repository documents my hands-on learning and practice with Microsoft 365 administration. I use it to understand how identity, access, and basic security concepts work in real environments. The goal is not automation or advanced architecture, but learning how things actually behave in Microsoft 365 and Power Platform admin tools.
+All data is anonymized.
 
 ## Notes for reviewers
 
