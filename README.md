@@ -1,6 +1,8 @@
 # power-platform-m365-admin-practice
-This repository documents my hands-on learning and practice with Microsoft 365 administration. I use it to understand how identity, access, and basic security concepts work in real environments. The goal is not automation or advanced architecture, but learning how things actually behave in Microsoft 365 and Power Platform admin tools.
-All data is anonymized.
+This repository documents my **hands-on learning journey** with Microsoft 365 administration. I use it to explore how identity, access and basic security concepts work in practice, while learning how Microsoft 365 and Power Platform admin tools behave in real scenarios.
+
+The focus is on **learning and understanding fundamentals** not on production automation or advanced architecture.  
+All data used is anonymized.
 
 ## What I practiced
 - Microsoft 365 Admin Center (users, groups, roles)
@@ -46,11 +48,3 @@ All screenshots are anonymized:
 Denisa Pitnerova
 
 Junior / Associate Microsoft 365 & Power Platform Administrator  
-
-This repository documents my hands-on learning and practice with Microsoft 365 administration. I use it to understand how identity, access, and basic security concepts work in real environments. The goal is not automation or advanced architecture, but learning how things actually behave in Microsoft 365 and Power Platform admin tools.
-All data is anonymized.
-
-## Notes for reviewers
-
-This repository demonstrates practical administration skills rather than theoretical knowledge.  
-All configurations were created manually in Microsoft 365 portals to simulate real enterprise scenarios.
